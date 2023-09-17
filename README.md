@@ -10,5 +10,5 @@ Zwykły tekst
 
 | Nagłówek 1 | Nagłówek 2 |
 |------------|------------|
-| Wartość 1  | Wartość 2  |
-| Wartość 3  | Wartości 4 |
+| zespół Renault zadebiutował w Formule 1 w sezonie 1977, kiedy to wystawiono bolid dla Jean-Pierre’a Jabouille’a w Grand Prix Wielkiej Brytanii. Samochód ten, oznaczony symbolem RS01, był pierwszym samochodem w historii Formuły 1 z silnikiem turbodoładowanym i oponami radialnymi. Pierwsze punkty dla Renault zdobył Jabouille  | Wartość 2  |
+| Wartość 3  | zespół Renault zadebiutował w Formule 1 w sezonie 1977, kiedy to wystawiono bolid dla Jean-Pierre’a Jabouille’a w Grand Prix Wielkiej Brytanii. Samochód ten, oznaczony symbolem RS01, był pierwszym samochodem w historii Formuły 1 z silnikiem turbodoładowanym i oponami radialnymi. Pierwsze punkty dla Renault zdobył Jabouille |
